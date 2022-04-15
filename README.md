@@ -1,1 +1,97 @@
-# CV
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Simone's Personal site</title>
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="Simone2.png" alt="Simone's Photo"></td>
+        <td><h1> Simone Moggi </h1>
+        <p><em>Student of Computer Sciences at <strong><a href="https://msa.edu.eg/msauniversity/">Modern Sciences and arts University</a></strong></em></p>
+        <p>  My name is Simone Moggi and this is my website where i'll be writing all my gibberish about my cheap yet utterly unimportant life, thanks for coming to my ted talk! Enjoy!</p></td>
+      </tr>
+    </table>
+    <hr>
+
+    <h3>Education</h3>
+    <ul>
+      <li>Delphi Playschool</li>
+      <li>Pioneers Language School</li>
+      <li>Modern Sciences and arts University</li>
+    </ul>
+    <hr>
+
+    <h3>Education History & Work Experience</h3>
+    <table cellspacing = "10">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Work or Education</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2004 - 2016</td>
+          <td>Went to Pioneers Language School</td>
+        </tr>
+        <tr>
+          <td>2016 - 2017</td>
+          <td>Went to italy Applying at <strong><em>L'universita di Pavia</em></strong></td>
+        </tr>
+        <tr>
+          <td>2018-2022</td>
+          <td>Stu(died) at Modern Sciences and arts University, faculty of Computer Sciences.</td>
+        </tr>
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+    </table>
+    <hr>
+
+    <h3>Skills</h3>
+    <table cellspacing = "10">
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Manipulation</td>
+              <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            </tr>
+            <tr>
+              <td>Crying under pressure</td>
+              <td>&#11088;&#11088;</td>
+            </tr>
+            <tr>
+              <td>Packing a punch</td>
+              <td>&#11088;&#11088;&#11088;&#11088;</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>Driving you cray cray</td>
+              <td>&#11088;&#11088;&#11088;&#11088;</td>
+            </tr>
+            <tr>
+              <td>SLAYYY!!</td>
+              <td>&#11088;&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            </tr>
+            <tr>
+              <td>Smash!</td>
+              <td>&#11088;&#11088;&#11088;&#11088;</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <hr>
+    <h4><a href="MyHobbies.html">Hobbies</a> <a href="Contactinfo.html">Contact me</h4>
+    <br>
+
+  </body>
+</html>
